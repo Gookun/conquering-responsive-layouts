@@ -12,8 +12,8 @@ A look at why fixed unit sizes are a bad idea when it comes to creating layouts,
 
 <h3>Notes DAY-01</h3>
 <ul>
-<li>% over px.(or relative sizing)<li>
-<li>padding: 5em; /*16*5 = 80px*/ </li>
+<li> % over px.(or relative sizing) <li>
+<li>padding: 5em;(*16*5 = 80px*) </li>
 <li>avoid heights</li>
 <li>Html is responsive by nature</li>
 </ul>
